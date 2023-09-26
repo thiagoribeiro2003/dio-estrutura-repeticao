@@ -5,7 +5,7 @@ public class ExemploForArray {
 
         //forma abreviada
         for(String aluno : alunos){
-            System.out.println("Nome do aluno é: " + alun);
+            System.out.println("Nome do aluno é: " + aluno);
         }
 	
         /* 
